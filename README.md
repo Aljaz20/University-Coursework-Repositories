@@ -10,6 +10,14 @@ This repository contains links to various projects and assignments completed dur
 - Implemented using Python and popular libraries such as OpenCV and NumPy.
 - Covers topics like histograms, convolution, epipolar geometry, and dimensionality reduction.
 
+### Intelligent Systems
+[Intelligent Systems Repository](https://github.com/Aljaz200/Intelligent-Systems)
+- 10 laboratory exercises covering foundational and advanced topics in artificial intelligence.
+- Topics include optimization algorithms, reinforcement learning, clustering, and NLP.
+- Includes 2 seminar projects:
+  - **Seminar 1**: Optimizing conference paper assignments using genetic algorithms.
+  - **Seminar 2**: Text classification for emotion detection using machine learning and NLP.
+
 ### Algorithms and Data Structures 2 (APS2)
 [APS2 Repository](https://github.com/Aljaz200/APS2)
 - Advanced algorithms and data structures, including trees, graphs, and optimization techniques.
